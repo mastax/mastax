@@ -1,5 +1,7 @@
 # Hi, I'm [EL MOSTAFA EL BAHTOURI]👋
 
+[![elel-bah's 42 stats](https://badge.mediaplus.ma/binary/elel-bah)](https://github.com/oakoudad/badge42)
+
 ## 🌱 About Me
 I am a dedicated and ambitious software engineer with a passion for learning and solving complex problems. Currently, I am a student at ALX, an intensive software engineering program that focuses on hands-on training and real-world projects. Throughout my journey at ALX, I have been honing my skills in various programming languages and technologies, including C, Python, and JavaScript.
 
