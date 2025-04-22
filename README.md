@@ -3,7 +3,7 @@
 ### <div align="center">Hi, I'm [EL MOSTAFA EL BAHTOURI]👋, a full-time full-stack developer 👨‍💻</div>  
   
 
-![Uploading 212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif…]()
+https://github.com/mastax/mastax/blob/master/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif
 
   
 
