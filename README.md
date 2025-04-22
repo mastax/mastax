@@ -1,7 +1,5 @@
 # Hi, I'm [EL MOSTAFA EL BAHTOURI]👋
 
-[![elel-bah's 42 stats](https://badge.mediaplus.ma/binary/elel-bah)](https://github.com/oakoudad/badge42)
-
 ### <div align="center">Hi, I'm [EL MOSTAFA EL BAHTOURI]👋, a full-time full-stack developer 👨‍💻</div>  
   
 
@@ -115,7 +113,3 @@
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-## 🔧 Technologies & Tools
-- :computer: C
-- :snake: Python
-- :globe_with_meridians: JavaScript
