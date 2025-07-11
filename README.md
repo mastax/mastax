@@ -1,6 +1,6 @@
 # Hi, I'm [EL MOSTAFA EL BAHTOURI]👋
 
-[![elel-bah's 42 stats](https://badge.mediaplus.ma/binary/elel-bah)](https://tenor.com/view/keanu-reeves-gif-4579128866114278178)
+[![elel-bah's 42 stats](https://badge.mediaplus.ma/binary/elel-bah)](https://github.com/mastax/mastax/blob/master/binary.svg)
 
 ### <div align="center">Hi, I'm [EL MOSTAFA EL BAHTOURI]👋, a full-time full-stack developer 👨‍💻</div>  
   
