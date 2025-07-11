@@ -1,6 +1,6 @@
 # Hi, I'm [EL MOSTAFA EL BAHTOURI]👋
 
-<div align="center">![![elel-bah's 42 stats](https://badge.mediaplus.ma/greenbinary/elel-bah)](https://github.com/mastax/mastax/blob/master/binary.svg)
+[![elel-bah's 42 stats](https://badge.mediaplus.ma/greenbinary/elel-bah)](https://github.com/mastax/mastax/blob/master/binary.svg)
 
 ### <div align="center">Hi, I'm [EL MOSTAFA EL BAHTOURI]👋, a full-time full-stack developer 👨‍💻</div>  
   
