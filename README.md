@@ -1,5 +1,7 @@
 # Hi, I'm [EL MOSTAFA EL BAHTOURI]👋
 
+[![elel-bah's 42 stats](https://badge.mediaplus.ma/binary/elel-bah)](https://github.com/oakoudad/badge42)
+
 ### <div align="center">Hi, I'm [EL MOSTAFA EL BAHTOURI]👋, a full-time full-stack developer 👨‍💻</div>  
   
 
